@@ -1,0 +1,1 @@
+console.log('mda, ya lusche poem govna')
